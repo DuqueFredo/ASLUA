@@ -4,5 +4,64 @@
   "artist": "Jinushi",
   "author": "Jinushi",
   "cover": "https://mangadex.org/covers/baa95345-24fb-47a9-83e9-434ff671f968/4862f2a1-2852-4c98-a217-e3a44af83152.jpg",
-  "chapters": {}
+  "chapters": {
+    "38.6": {
+      "title": "38.6",
+      "volume": "5",
+      "last_updated": "1785104228",
+      "groups": {
+        "Bakashi": [
+          "https://i.imgur.com/46uQ37d.jpg",
+          "https://i.imgur.com/xbfJTg2.jpg",
+          "https://i.imgur.com/MLm3v1M.jpg",
+          "https://i.imgur.com/C7eqqul.png"
+        ]
+      }
+    },
+    "44.1": {
+      "title": "44.1",
+      "volume": "6",
+      "last_updated": "1785104393",
+      "groups": {
+        "Bakashi": [
+          "https://i.imgur.com/lMEDufU.jpeg",
+          "https://i.imgur.com/J5aBlnD.jpeg",
+          "https://i.imgur.com/xvPJH1E.jpeg",
+          "https://i.imgur.com/ZFOU3p8.jpeg",
+          "https://i.imgur.com/UUGGlcb.jpeg",
+          "https://i.imgur.com/EiNdjFY.jpeg",
+          "https://i.imgur.com/8dzsNeN.jpeg"
+        ]
+      }
+    },
+    "50.1": {
+      "title": "50.1",
+      "volume": "7",
+      "last_updated": "1785104475",
+      "groups": {
+        "Bakashi": [
+          "https://i.imgur.com/t2f2GA5.jpeg",
+          "https://i.imgur.com/5BonWiM.jpeg",
+          "https://i.imgur.com/DhyEXld.jpeg",
+          "https://i.imgur.com/HG3w9T7.jpeg",
+          "https://i.imgur.com/48nT5yb.jpeg"
+        ]
+      }
+    },
+    "56.1": {
+      "title": "56.1",
+      "volume": "8",
+      "last_updated": "1785104545",
+      "groups": {
+        "Bakashi": [
+          "https://i.imgur.com/sgcqS5r.jpeg",
+          "https://i.imgur.com/Yfgu3HH.jpeg",
+          "https://i.imgur.com/rZQa4tW.jpeg",
+          "https://i.imgur.com/nvN8IbB.jpeg",
+          "https://i.imgur.com/wHKt2F8.jpeg",
+          "https://i.imgur.com/vtTSStd.jpeg"
+        ]
+      }
+    }
+  }
 }
